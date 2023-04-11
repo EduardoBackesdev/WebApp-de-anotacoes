@@ -118,7 +118,7 @@ dialog .botao button:hover{
 }
 
 dialog input{
-    
+    height: 25px;
     margin-top: 5px;
     width: 80%;
     padding: 0px 5px;
