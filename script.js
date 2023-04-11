@@ -4,8 +4,7 @@ var modal = document.querySelector('dialog');
 
 function abrirNovaNote () {
     modal.showModal();
-}
-
+} 
 /* --------- */
 
 
